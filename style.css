@@ -149,7 +149,35 @@ main {
         margin-inline: auto;
     }
 
+    .tema img {
+        
+    }
     section {
         width: 100%;
+    }
+
+    .boas_vindas h1{
+        font-size: 64px;
+        margin-bottom: 48px;
+    }
+
+    .boas_vindas p{
+        font-size: 20px;
+    }
+
+    .assuntos {
+        gap: 24px;
+    }
+
+    .assuntos button {
+        font-size: 20px;
+        padding: 20px;
+        gap: 34px;
+    }
+
+    .assuntos button div {
+        width: 56px;
+        height: 54px;
+        padding: 8px;
     }
 }
