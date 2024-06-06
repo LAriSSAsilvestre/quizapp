@@ -50,6 +50,7 @@ header{
     display: flex;
     justify-content: space-between;
     padding: 16px 24px;
+    color: var(--primary-text-color);
 }
 
 .assunto {
