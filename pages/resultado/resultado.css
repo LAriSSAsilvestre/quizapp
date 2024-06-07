@@ -222,12 +222,12 @@ main button:hover {
     main {
         display: flex;
         gap: 140px;
-        max-width: 1140px;
+        max-width: 1160px;
         margin-inline: auto;
     } 
 
     main h2,
-    mai  > div {
+    main  > div {
         width: 100%;
     }
 
