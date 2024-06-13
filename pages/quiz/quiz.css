@@ -34,7 +34,7 @@ body.escuro {
     --bg-mobile: url(../../assets/images/pattern-background-mobile-dark.svg);
     --bg-desktop: url(../../assets/images/pattern-background-desktop-dark.svg);
     --primary-text-color: #fff;
-    --secundary-text-color: #acb1e1;
+    --secundary-text-color: #abc1e1;
     --button-bg: #3b4b66;
     --shadow: 0px 16px 40px 0px rgba(49, 62, 81, 0.14);
 }
@@ -132,7 +132,7 @@ main{
 .pergunta p {
     font-style: italic;
     font-size: 14px;
-    color: var(--secondary-text-color);
+    color: var(--secundary-text-color);
     margin-bottom: 12px;
 }
 
